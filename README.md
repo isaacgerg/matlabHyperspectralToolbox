@@ -1,5 +1,9 @@
 # MATLAB Hyperspectral Toolbox
 
+This software is no longer being maintained.  Please use Spectral Py http://www.spectralpython.net/ or PySptools http://pysptools.sourceforge.net/.
+
+~Isaac
+
 The open source Matlab Hyperspectral Toolbox is a matlab toolbox containing various hyperspectral exploitation algorithms. The toolbox is meant to be a concise repository of current state-of-the-art exploitation algorithms for learning and research purposes. The toolbox (will) include(s) functions for:
 Target detection
 Material abundance map (MAM) generation
