@@ -11,13 +11,14 @@ This software is no longer being maintained.  The following are works contain pa
 ~Isaac
 
 The open source Matlab Hyperspectral Toolbox is a matlab toolbox containing various hyperspectral exploitation algorithms. The toolbox is meant to be a concise repository of current state-of-the-art exploitation algorithms for learning and research purposes. The toolbox (will) include(s) functions for:
-*Target detection
-*Material abundance map (MAM) generation
-*Spectral unmixing
-*Automated processing
-*Change detection
-*Visualization
-*Reading / writing files (.rfl, .asd, ect)
+
+* Target detection
+* Material abundance map (MAM) generation
+* Spectral unmixing
+* Automated processing
+* Change detection
+* Visualization
+* Reading / writing files (.rfl, .asd, ect)
 
 FastICA can be downloaded here. FastICA is used in a few of the functions in the toolbox. Remember to add the FastICA toolbox to Matlab's path table. You can do this using the addpath function.
 
