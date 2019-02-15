@@ -1,6 +1,12 @@
 # MATLAB Hyperspectral Toolbox
 
-This software is no longer being maintained.  Please use Spectral Py http://www.spectralpython.net/ or PySptools http://pysptools.sourceforge.net/.
+Update Feb 15, 2019.
+This software is no longer being maintained.  The following are derivatives of this toolbox
+
+* http://davidkun.github.io/HyperSpectralToolbox/ 
+* Spectral Py http://www.spectralpython.net/ 
+* PySptools http://pysptools.sourceforge.net/
+
 
 ~Isaac
 
