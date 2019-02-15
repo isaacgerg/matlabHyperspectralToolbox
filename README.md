@@ -23,15 +23,15 @@ The open source Matlab Hyperspectral Toolbox is a matlab toolbox containing vari
 FastICA can be downloaded here. FastICA is used in a few of the functions in the toolbox. Remember to add the FastICA toolbox to Matlab's path table. You can do this using the addpath function.
 
 These are listed below in order of my priority of implementing them.
-(Joint) Affine Matched filter. Link.
-Generalization of matched filter which includes signature statistics. See equation 1 of this.
-RAF-SAM, an improvement to SAM from: Improving the Classification Precision of Spectral Angle Mapper
+* (Joint) Affine Matched filter. Link.
+* Generalization of matched filter which includes signature statistics. See equation 1 of this.
+* RAF-SAM, an improvement to SAM from: Improving the Classification Precision of Spectral Angle Mapper
 ELM for radiance to reflectance conversion (http://www.cis.rit.edu/files/197_SPIE_2005_Grimm.pdf)
-Covariance matrix inversion methods (e.g. Dominant Mode Rejection)
-Quadratic Detector
-SMACC
-AMEE
-NFINDR
-Antonia Plaza's FastPPI
-Joshua Broaderwater's hybrid detectors (HUD, etc)
-Variations on ACE - e.g. adaptive covariance estimated ACE, etc
+* Covariance matrix inversion methods (e.g. Dominant Mode Rejection)
+* Quadratic Detector
+* SMACC
+* AMEE
+* NFINDR
+* Antonia Plaza's FastPPI
+* Joshua Broaderwater's hybrid detectors (HUD, etc)
+* Variations on ACE - e.g. adaptive covariance estimated ACE, etc
