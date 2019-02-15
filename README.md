@@ -2,7 +2,7 @@
 
 **Update Feb 15, 2019**
 
-This software is no longer being maintained.  The following are works contain parts of this toolbox:
+This software is no longer being maintained.  The following are works containing parts of this toolbox:
 
 * http://davidkun.github.io/HyperSpectralToolbox/ 
 * PySptools http://pysptools.sourceforge.net/
