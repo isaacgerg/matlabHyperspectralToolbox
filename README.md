@@ -1,5 +1,7 @@
 # MATLAB Hyperspectral Toolbox
 
+This toolbox was developed in support of "An Evaluation of Three Endmember Extraction Algorithms: ATGP, ICA-EEA, and VCA," https://etda.libraries.psu.edu/catalog/8265.
+
 **Update Feb 15, 2019**
 
 This software is no longer being maintained.  The following are works containing parts of this toolbox:
