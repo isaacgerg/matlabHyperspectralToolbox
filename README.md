@@ -12,7 +12,7 @@ howpublished = {\url{https://github.com/isaacgerg/matlabHyperspectralToolbox}},
 year = {2006--2022}
 }
 ```
-Deriviative works of this toolbox must also provide this citation and where authors have updatead the work, they made add their names to the author line in addition to mine.
+Deriviative works of this toolbox must also provide this citation and where new authors that have updated the work, they should add their names to the author line in addition to mine.
 
 The open source Matlab Hyperspectral Toolbox is a matlab toolbox containing various hyperspectral exploitation algorithms. The toolbox is meant to be a concise repository of current state-of-the-art (2008) exploitation algorithms for learning and research purposes. The toolbox (will) include(s) functions for:
 
