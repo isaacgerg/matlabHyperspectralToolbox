@@ -3,7 +3,7 @@
 This toolbox was developed in support of "An Evaluation of Three Endmember Extraction Algorithms: ATGP, ICA-EEA, and VCA," https://etda.libraries.psu.edu/catalog/8265.
 
 **Update Jan 6, 2022**
-If you use this work, please using the following citation:
+If you use this work in your research, please using the following citation:
 ```
 @Misc{matlab_hsi_toolbox,
 author =   {Isaac Gerg},
