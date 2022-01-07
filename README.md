@@ -1,4 +1,4 @@
-# MATLAB Hyperspectral Toolbox
+# Open Source MATLAB Hyperspectral Toolbox
 
 **Update Jan 6, 2022**
 If you use this work in your research, please using the following citation:
