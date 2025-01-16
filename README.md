@@ -9,14 +9,19 @@ This toolbox was originally developed to support research for my Master's thesis
 ## Key Capabilities & Examples
 
 ### Noise Handling and Signal Quality
-![SNR Effects on Spectral Signatures](figures/snr_effects.png)
+![SNR Effects on Spectral Signatures](figure_1.png)
 *Demonstration of how different SNR levels affect spectral signatures, from 10dB (high noise) to 60dB (low noise). This understanding is crucial for processing real sensor data.*
 
+### Material Classification
+![Hyperspectral Classification](figure_2.png)
+*Example of material classification results from hyperspectral analysis*
+
 ### Material Abundance Mapping
-![Material Distribution Example 1](figures/abundance1.png)
-![Material Distribution Example 2](figures/abundance2.png)
-![Material Distribution Example 3](figures/abundance3.png)
-![Material Distribution Example 4](figures/abundance4.png)
+![Material Distribution Example 1](figure_3.png)
+![Material Distribution Example 2](figure_4.png)
+![Material Distribution Example 3](figure_5.png)
+![Material Distribution Example 4](figure_6.png)
+![Material Distribution Example 5](figure_7.png)
 *Progressive examples of material abundance mapping showing different material concentrations overlaid on Google Earth imagery of Moffett Field, CA. These maps demonstrate the toolbox's ability to identify and quantify material distributions across a scene.*
 
 ## Features
