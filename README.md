@@ -10,18 +10,30 @@ This toolbox was originally developed to support research for my Master's thesis
 
 ### Noise Handling and Signal Quality
 ![50% reflectance endmembers with various levels of noise added](figures/figure_4.png)
+
 *Demonstration of how different SNR levels affect spectral signatures, from 10dB (high noise) to 60dB (low noise). This understanding is crucial for processing real sensor data.*
 
 ### Hyperspectral Data Visualization
 ![Decorrelation Stretched Image of Moffett Field, CA Dataset](figures/figure_13.png)
+
 *Decorrelation stretched image computed from bands 199, 126 and 51 (RGB) showing the Moffett Field, CA test site*
 
 ### Material Abundance Mapping
 ![Abundance map of Sagebrush](figures/figure_14.png)
+
+*Abundance map showing the distribution of Sagebrush across the Moffett Field, CA region*
+
 ![Abundance map of Lichen](figures/figure_15.png)
+
+*Abundance map showing the distribution of Lichen across the Moffett Field, CA region*
+
 ![Abundance map of Oak Tree](figures/figure_16.png)
+
+*Abundance map showing the distribution of Oak Trees across the Moffett Field, CA region*
+
 ![Abundance map of Antigorite](figures/figure_17.png)
-*Material abundance maps showing the distribution of different materials overlaid on Google Earth imagery of Moffett Field, CA*
+
+*Abundance map showing the distribution of Antigorite across the Moffett Field, CA region*
 *Progressive examples of material abundance mapping showing different material concentrations overlaid on Google Earth imagery of Moffett Field, CA. These maps demonstrate the toolbox's ability to identify and quantify material distributions across a scene.*
 
 ## Features
