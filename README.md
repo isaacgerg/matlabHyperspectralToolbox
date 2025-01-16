@@ -160,6 +160,8 @@ min ||Ax - b||^2 subject to sum(x) = 1 and x ≥ 0
 ```
 where A contains endmember signatures and x contains abundances.
 
+**Note**: This implementation contains a correction to the original formulation presented in "Fully Constrained Least-Squares Based Linear Unmixing" (Heinz, Chang, and Althouse, IEEE 1999).
+
 #### hyperNnls.m (Non-Negative Least Squares)
 Solves:
 ```
