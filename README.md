@@ -6,6 +6,19 @@ A comprehensive MATLAB toolbox for hyperspectral image processing and analysis, 
 
 This toolbox was originally developed to support research for my Master's thesis "[An Evaluation of Three Endmember Extraction Algorithms: ATGP, ICA-EEA, and VCA](https://etda.libraries.psu.edu/catalog/8265)" under the advisorship of Dr. Tim Kane at Penn State's Remote Sensing and Space Systems Lab. The work has since evolved into a broader collection of hyperspectral analysis tools that continues to serve the remote sensing research community.
 
+## Key Capabilities & Examples
+
+### Noise Handling and Signal Quality
+![SNR Effects on Spectral Signatures](figures/snr_effects.png)
+*Demonstration of how different SNR levels affect spectral signatures, from 10dB (high noise) to 60dB (low noise). This understanding is crucial for processing real sensor data.*
+
+### Material Abundance Mapping
+![Material Distribution Example 1](figures/abundance1.png)
+![Material Distribution Example 2](figures/abundance2.png)
+![Material Distribution Example 3](figures/abundance3.png)
+![Material Distribution Example 4](figures/abundance4.png)
+*Progressive examples of material abundance mapping showing different material concentrations overlaid on Google Earth imagery of Moffett Field, CA. These maps demonstrate the toolbox's ability to identify and quantify material distributions across a scene.*
+
 ## Features
 
 The toolbox includes implementations of various hyperspectral exploitation algorithms:
@@ -250,6 +263,16 @@ Computes measure of pixel spectral purity through repeated projections.
 #### hyperRoc.m (Receiver Operating Characteristic)
 Computes ROC curves for detector performance evaluation.
 
+## Related Projects
+
+Thanks to the permissive license of this toolbox, several derivative works have emerged:
+
+### PySPTools
+Much of this codebase has been ported to Python in the [PySPTools project](https://pysptools.sourceforge.io/), providing these algorithms to the Python community.
+
+### HyperSpectral Toolbox by David Kun
+[David Kun's fork](https://davidkun.github.io/HyperSpectralToolbox/) of this toolbox maintains the MATLAB implementation while adding several new features.
+
 ## Planned Features
 
 Future development priorities include:
@@ -275,16 +298,6 @@ If you use this toolbox in your research, please cite:
     year      = {2006--2022}
 }
 ```
-
-## Related Projects
-
-Thanks to the permissive license of this toolbox, several derivative works have emerged:
-
-### PySPTools
-Much of this codebase has been ported to Python in the [PySPTools project](https://pysptools.sourceforge.io/), providing these algorithms to the Python community.
-
-### HyperSpectral Toolbox by David Kun
-[David Kun's fork](https://davidkun.github.io/HyperSpectralToolbox/) of this toolbox maintains the MATLAB implementation while adding several new features.
 
 ## Contributing
 
